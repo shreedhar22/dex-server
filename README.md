@@ -58,6 +58,18 @@ npm start
 npm run dev
 ```
 
+## Prisma Schema Setup
+
+1. Install prisma (add prisma to dev dependencies)
+```
+npm i -D prisma
+```
+
+2. Prisma init
+```
+npx prisma init
+```
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
